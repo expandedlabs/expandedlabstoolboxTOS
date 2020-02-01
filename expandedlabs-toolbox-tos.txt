@@ -22,12 +22,12 @@ Welcome to ExpandedLabs Toolbox
 	affiliate / advertising partners may also use cookies.License
 	Unless otherwise stated, ExpandedLabs Toolbox and/or it's licensors own the intellectual property rights for
 	all material on ExpandedLabs Toolbox. All intellectual property rights are reserved. You may view and/or print
-	pages from http://github.com/expandedlabs for your own personal use subject to restrictions set in these terms and conditions.
+	pages fromhttps://dashboard.twitch.tv/extensions/290ykxu7msj5ecvu8ymk6cqjxbqkj6 for your own personal use subject to restrictions set in these terms and conditions.
 	You must not:
 	
-		Republish material from http://github.com/expandedlabs
-		Sell, rent or sub-license material from http://github.com/expandedlabs
-		Reproduce, duplicate or copy material from http://github.com/expandedlabs
+		Republish material fromhttps://dashboard.twitch.tv/extensions/290ykxu7msj5ecvu8ymk6cqjxbqkj6
+		Sell, rent or sub-license material fromhttps://dashboard.twitch.tv/extensions/290ykxu7msj5ecvu8ymk6cqjxbqkj6
+		Reproduce, duplicate or copy material fromhttps://dashboard.twitch.tv/extensions/290ykxu7msj5ecvu8ymk6cqjxbqkj6
 	
 	Redistribute content from ExpandedLabs Toolbox (unless content is specifically made for redistribution).
 Hyperlinking to our Content
